@@ -6,6 +6,7 @@ I'm a passionate developer with a strong foundation in programming. I previously
 Here are some of my educational projects:
 
 
+
 - Project 1: Learning Java Basics ☕️
 - Project 2: Spring Boot Project - search Engine.
 - Project 3: Simple Waiting list for washing machine use List App (React) 📋
